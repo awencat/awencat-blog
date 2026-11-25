@@ -3,7 +3,7 @@ title: Draft Example
 published: 2022-07-01
 tags: [Markdown, Blogging, Demo]
 category: Examples
-draft: true
+draft: false
 ---
 
 # Awencat 的自-我-介-绍
@@ -22,10 +22,6 @@ draft: true
 常态化摸鱼……
 有一定的unity开发经验，不过不算精通……
 
-
-
 南京大学MC社重要成员（应该吧？）
-
-
 
 最近在做：一些MC小游戏的管理，有兴趣者可以和我聊聊什么样的这玩意好玩……
